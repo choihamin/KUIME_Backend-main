@@ -1,0 +1,12 @@
+click @ file:///Users/runner/miniforge3/conda-bld/click_1635822678136/work
+dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1633384704162/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1636510082894/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1635833843092/work
+psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1640944573966/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1642714909499/work
+
+flask~=2.0.2
+psycopg2~=2.9.3
+python-dotenv~=0.19.2
